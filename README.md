@@ -4,5 +4,5 @@
 
 GameDesigner : Téva FERREIRA / Adriana Massebeuf / Titouan Bertrand-levrel
 
-Mécanique : Clavier-sourits
+Mécanique : Clavier-sourits;
 Déplacement WASD ou fléche directionelle
