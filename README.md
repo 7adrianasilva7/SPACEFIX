@@ -1,8 +1,8 @@
-# SPACEFIX
+# SPACEFIX - PFA - GD1
 
-## Version UE5.7
+## Version UE5.7.4
 
-GameDesigner : Téva FERREIRA / Adriana Massebeuf / Titouan Bertrand-levrel
+Game Designer : Téva FERREIRA / Adriana Massebeuf / Titouan Bertrand-levrel
 
-Mécanique : Clavier-sourits;
-Déplacement WASD ou fléche directionelle
+Mécanique : Clavier-souris;
+Déplacement WASD ou flèches directionelles
