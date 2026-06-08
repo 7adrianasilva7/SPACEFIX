@@ -18,4 +18,8 @@ Contrôles : Manettes;
 
 Moteur : Unreal Engine
 
+Assets utilisés : FAB et Sketchfab
+
+SFX utilisés : Freesound - Pixabay 
+
 Game Designer : Téva FERREIRA / Adriana Massebeuf / Titouan Bertrand-levrel
