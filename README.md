@@ -2,6 +2,8 @@
 
 ## Version UE5.7.4
 
+Projet de fin d'année - Ecole Brassart - Réalisé en 1 mois
+
 Description :
 Le cargo spatial de SPACEFIX transporte trois satellites essentiels au rétablissement d'un réseau de communication mondial. Vous êtes l'unique technicien à bord. 
 La mission est simple : charger chaque satellite sur le rail magnétique, l'escorter jusqu'au cockpit et valider le déploiement. 
