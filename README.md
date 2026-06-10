@@ -4,7 +4,7 @@
 
 Projet de fin d'année - Ecole Brassart - Réalisé en 1 mois
 
-<img width="630" height="500" alt="Exo_2" src="https://github.com/user-attachments/assets/f6f05016-2d90-44f8-beca-d6a59f0619e3" />
+<img width="430" height="330" alt="Exo_2" src="https://github.com/user-attachments/assets/f6f05016-2d90-44f8-beca-d6a59f0619e3" />
 
 Description :
 Le cargo spatial de SPACEFIX transporte trois satellites essentiels au rétablissement d'un réseau de communication mondial. Vous êtes l'unique technicien à bord. 
