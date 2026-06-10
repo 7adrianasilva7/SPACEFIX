@@ -20,8 +20,16 @@ Mais FALCO, la société rivale, envoie ses agents à l'intérieur du vaisseau p
 * Réparer : RT
 * Pause : Bouton menu
 
-
 ## Crédits
+### Assets
+* Fab
+* Sketchfab
+### SFX
+* freesound.org
+* Pixabay
+* Youtube
+
+## Collaborateurs
 Game Designer
 * Téva Ferreira : Level Design, développement, mécaniques, GDD, game concept, VFX/SFX
 * Adriana Massebeuf : Développement, mécaniques, GDD, game concept, VFX/SFX
