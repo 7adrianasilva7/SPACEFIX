@@ -18,7 +18,7 @@ Mais FALCO, la société rivale, envoie ses agents à l'intérieur du vaisseau p
 * Équiper : Y
 * Tirer : LT
 * Réparer : RT
-* Pause : Bouton menu
+* Pause : Bouton Start
 
 ## Crédits
 ### Assets
