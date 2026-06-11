@@ -34,7 +34,7 @@ Gameplay : ~5-10 minutes
 ## Collaborateurs
 Game Designer
 * Téva Ferreira : Level Design, développement, mécaniques, GDD, game concept, VFX/SFX
-* Adriana Massebeuf : Développement, mécaniques, GDD, game concept, VFX/SFX
+* Adriana Silva : Développement, mécaniques, GDD, game concept, VFX/SFX
 * Titouan Bertrand-levrel : Écran de chargement, recherche de SFX/VFX, game concept
   
 <a href="https://github.com/Teva02"><img src="https://avatars.githubusercontent.com/Teva02?size=80" width="80"/></a>
