@@ -10,6 +10,7 @@ Projet de fin d'année - Brassart - 11/05 au 11/06
 12 avril 1961. Le cargo spatial de SPACEFIX transporte trois satellites essentiels au rétablissement d'un réseau de communication mondial. Vous êtes l'unique technicien à bord. 
 La mission est simple : charger chaque satellite sur le rail magnétique, l'escorter jusqu'au cockpit et valider le déploiement. 
 Mais FALCO, la société rivale, envoie ses agents à l'intérieur du vaisseau pour faire échouer l'opération. Vous devez donc neutraliser toute tentative d'interérence ou de sabotage.
+
 Gameplay : ~5-10 minutes
 
 ## Contrôles : Manette XBOX
